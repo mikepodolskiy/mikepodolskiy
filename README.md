@@ -2,6 +2,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python-developer+student)](https://git.io/typing-svg)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **mikepodolskiy/mikepodolskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
