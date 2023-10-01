@@ -17,7 +17,9 @@
 
 <hr>
 
-[](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikepodolskiy&theme=dark&background=000000)](https://git.io/streak-stats)
+[](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mikepodolskiy&theme=solarized_dark)
 
 
 ![Codewars](https://github.r2v.ch/codewars?user=mikepodolskiy)
