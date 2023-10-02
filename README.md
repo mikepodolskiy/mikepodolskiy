@@ -8,14 +8,18 @@
 </div>
 
 
-<h3>Stack:</h3>
-<ul>
-<li>Python, Django, DRF</li>
-<li>SQL, SQL Alchemy и Django ORM</li>
-<li>HTML, CSS (base for Django application)</li>
-<li>Docker и Docker-сompose(base for launching my apps)</li>
+<h3 align="left">Stack:</h3>
+<h3 align="left"><ul>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="25"> Python</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" width="25"> Django</li>
+   <li><img src="https://github.com/mikepodolskiy/mikepodolskiy/blob/main/DRF-logo.png" width="25"> Django REST Framework</li>
+     <li><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" width="25"> Flask</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="25"> Git</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="25"> Docker</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width="25"> DB (Postgres, SQLite)</li>
+    <li><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" width="25"> HTML (base knowleges for Django simple templates)</li>
+</ul></h3>
 
-<hr>
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mikepodolskiy&theme=dark&background=000000)](https://git.io/streak-stats)
